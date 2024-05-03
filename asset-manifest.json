@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reachUs/static/css/main.61fb64e6.css",
+    "main.js": "/reachUs/static/js/main.d2dd8175.js",
+    "static/media/customercare.png": "/reachUs/static/media/customercare.d40cc32369e1963a1e1f.png",
+    "static/media/icon.png": "/reachUs/static/media/icon.4612883c013c0003d0ae.png",
+    "index.html": "/reachUs/index.html",
+    "main.61fb64e6.css.map": "/reachUs/static/css/main.61fb64e6.css.map",
+    "main.d2dd8175.js.map": "/reachUs/static/js/main.d2dd8175.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61fb64e6.css",
+    "static/js/main.d2dd8175.js"
+  ]
+}
